@@ -34,6 +34,8 @@ body{
     
 }
 
+
+
 .login form .email{
     width:100%;
     height: 40px;
@@ -42,7 +44,7 @@ body{
     margin:10px 0 18px 0;
     padding: 0 10px; 
     border: 2px solid silver;
-
+    font-size: 18px;
 }
 
 .login form .pass{
@@ -53,17 +55,19 @@ body{
     margin:10px 0 18px 0;
     padding: 0 10px; 
     border: 2px solid silver; 
+    font-size: 18px;
+
 }
 
 .login form .submit{
     margin-left: 38%;
-    width: 115px;
-    height: 31px;
+    width: 130px;
+    height: 40px;
     background: #2d4150;
     font-size: 18px;
     text-transform: uppercase;
     color: white;
-    border-radius: 21px;
+    border-radius: 9px;
     transition-duration: 0.4s;
 
 }
