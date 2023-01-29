@@ -1,0 +1,98 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+   
+        background-image: url(../image/header-background.jpg);
+        width: 100%;
+        height: 800px;
+        background-size: 100%;
+        background-repeat: no-repeat;
+    
+}
+
+.navbar{
+    padding-right: 440px;
+    padding-left: 500px;
+    margin-top: 0px;
+    font-family: 'Kanit', sans-serif;
+        font-size: 13px;
+  
+    
+}
+
+ul{
+    list-style:none;
+    padding-top: 14px;
+}
+
+a{
+    padding: 3px 26px;
+    text-decoration: none;
+    color: white;
+    
+}
+
+.navbar ul{
+    display: flex;
+   justify-content: space-around;
+   text-decoration: none;
+}
+
+h2{
+    font-size: 94px;
+    color: white;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+   
+}
+
+.menu{
+    margin-top: 175px;
+    margin-left: 60px;
+    
+}
+
+p{
+    margin-left: 333px;
+    color: #ede7e7c7;
+    width: 47%;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Nunito', sans-serif;
+    line-height: 1.5;
+}
+
+.menu p b{
+    color: rgb(250, 242, 242);
+}
+
+.menu hr{
+    width: 60%;
+    margin: 18px auto 24px auto;
+    border-color: #c4c0c721;
+}
+
+.menu .social-tag{
+    display: flex;
+    list-style: none;
+    margin: 24px;
+    justify-content: center;
+
+}
+
+.menu .icon{
+    font-size: 23px;
+   
+   
+}
+
+.acolor{
+    color: rgb(238, 101, 10);
+}
+
+    

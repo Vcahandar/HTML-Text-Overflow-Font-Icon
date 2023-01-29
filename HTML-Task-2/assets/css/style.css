@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #fbf8f5;
+}
+
+.font {
+    margin-top: 85px;
+    ;
+    margin-left: 450px;
+    width: 475px;
+    height: 560px;
+    padding: 11px;
+    background: white;
+    border-radius: 4px;
+    box-shadow: 0 8px 16px #a5a0a0;
+    margin-bottom: 200px;
+    text-align: center;
+}
+
+.img {
+    background-image: url(../image/testmading.jpg);
+    background-repeat: no-repeat;
+    height: 50%;
+    margin-left: 63px;
+    background-size: 90%;
+}
+
+#h3text {
+    margin-top: 22px;
+    font-family: 'Encode Sans', sans-serif;
+    letter-spacing: 5px;
+    color: #6c580c;
+    text-shadow: 1px 1px #a5890370;
+}
+
+#h3text span{
+    font-size: 12px;
+}
+
+.ptext1{
+    margin-top: 35px;
+    color: #6c580c;
+    text-shadow: 0px 1px #52524f;
+    letter-spacing: 1px;
+    font-size: 13px;
+    font-family: 'Encode Sans', sans-serif;
+
+
+
+}
+
+#h2text{
+    margin-top: 21px;
+    color: #6c580c;
+    text-shadow: 1px 1px #a5890370;
+    letter-spacing: 4px;
+    font-size: 18px;
+    font-family: 'Encode Sans', sans-serif;
+}
+
+#h2text2{
+    margin-top: 5px;
+    color: #6c580c;
+    text-shadow: 1px 1px #a5890370;
+    letter-spacing: 4px;
+    font-size: 18px;
+    font-family: 'Encode Sans', sans-serif;
+}
+
+#h5text{
+    margin-top: 20px;
+    color: #6c580c;
+    text-shadow: 1px 1px #1e1a0570;
+    letter-spacing: 3px;
+    font-size: 12px;
+    font-family: 'Encode Sans', sans-serif;
+}
+
+#h5text2{
+    margin-top: 20px;
+    color: #6c580c;
+    text-shadow: 1px 1px #a5890370;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-family: 'Brygada 1918', serif;
+}
+

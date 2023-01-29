@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.icon .icon-deliver{
+     font-size: 86px;
+     margin-left:600px;
+     margin-top: 110px;
+    padding: 52px;
+    border-radius: 1px 50px;
+    background-color: #d9744d;
+    color: white;
+}
+
+h2{
+    font-family: 'Playfair Display', serif;
+    color: #4e443e;
+}
+
+.icon h2{
+    width: 260px;
+    margin-top: 50px;
+    margin-left: 582px;
+    padding: 10px;
+    font-size: 37px;
+    text-align: center;
+}
+
+.icon p{
+    margin-left: 472px;
+    font-size: 27px;
+    text-align-last: center;
+    width: 505px;
+    margin-top: 20px;
+}
+
+p{
+    color: #6d564e;
+    font-family: 'Nanum Myeongjo', serif;
+    font-weight: 10px   ;
+}
