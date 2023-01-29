@@ -1,0 +1,249 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+} */
+
+/* .items ul {
+    display: flex;
+    list-style: none;
+    height: 80px;
+    align-items: center;
+}
+
+.item li {
+    margin-left: 10px;
+    font-size: 22px;
+}
+
+.items li a {
+    text-decoration: none;
+}
+
+.item ul .line {
+    height: 20px;
+    background-color: black;
+    width: 1px;
+    margin-left: 10px;
+    height: 35px;
+}
+
+.content {
+    width: 600px;
+
+}
+
+.content p img {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 0 10px 10px 0;
+}
+
+.box {
+    width: 300px;
+    height: 200px;
+    background-color: aqua;
+    padding: 10px;
+    margin: 100px;
+    overflow-y: scroll;
+} */
+
+/* .box p{
+    text-indent: 50px;
+    letter-spacing: 5px;
+} */
+
+/* 
+a {
+    text-decoration: none;
+
+    font-size: 25px;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: black;
+    font-weight: 700px;
+    color: magenta;
+    margin-left: 100px;
+    border-radius: 10px;
+    transition: all 0.5s;
+}
+
+a:hover {
+    color: black;
+    background-color: magenta;
+    border: 1px solid magenta;
+}
+
+
+.item1 {
+    width: 300px;
+    height: 300px;
+    background-color: magenta;
+    display: none;
+    visibility: hidden;
+}
+
+.item2 {
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+}
+
+.box1 {
+    display: flex;
+    gap: 10px;
+
+}
+
+
+h2 {
+    margin: 50px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(../fonts/Roboto-Bold.ttf);
+}
+
+h3{
+    font-family: myFirstFont;
+}
+
+@font-face {
+    font-family: mysecondFont;
+    src: url(../fonts/Unbounded-VariableFont_wght.ttf);
+}
+
+h1{
+  font-family: mysecondFont;
+
+}
+
+@font-face {
+    font-family: libreBaskervilleFont;
+    src: url(../fonts/LibreBaskerville-Italic.ttf);
+}
+
+p{
+    font-family: libreBaskervilleFont;
+} */ 
+
+/* a{
+    text-decoration: none;
+}
+
+.icon .icon-cart{
+    font-size: 40px;
+color: red;
+margin-left: 100px;
+margin-top: 100px;
+border: 1px solid black;
+padding: 10px;
+border-radius: 10px;
+background-color: black;
+cursor: pointer;
+}
+
+.icon{
+    position: relative;
+}
+
+sup{
+    position: absolute;
+    top: 88px;
+    font-size: 15px;
+    background-color: red;
+    border-radius: 49%;
+    padding: 0px;
+    width: 16px;
+    padding-left: 7px;
+    height: 20px;
+    color: white;
+    font-weight: 700;
+} */
+
+
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  .students h2{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+  }
+
+  .students a{
+    text-decoration: none;
+    display: block;
+
+
+  }
+
+ 
+
+  .students table .icons{
+    display: flex;
+    gap: 15px;
+  }
+
+  .students table .icons a:nth-child(1) i{
+    background-color: blue;
+  
+  }
+
+  .students table .icons a:nth-child(2) i{
+    background-color:green;
+  
+  }
+
+
+  .students table .icons a:nth-child(3) i{
+    background-color: red;
+  }
+
+
+  .students table .icons a i{
+    padding: 15px;
+    color: white;
+    border-radius: 5px;
+  }
+
+
+
+  .students .create{
+
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    float: right;
+    margin-right: 59px;
+    margin-bottom: 10px;
+  }
+
+  .students .create a i{
+    color: red;
+    font-size: 20px;
+display: block;
+  }
